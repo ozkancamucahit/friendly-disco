@@ -1,2 +1,2 @@
-# websitesi
+# friendly disco
 gh sunuculu sayfa
